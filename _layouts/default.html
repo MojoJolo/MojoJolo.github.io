@@ -19,18 +19,28 @@
 			background-color: #555;
 			color: white;
 		}
+
+		.content {
+			padding-left: 20px;
+			text-align: justify;
+    		text-justify: inter-word;
+		}
 	</style>
 </head>
 <body>
 	<div class="container">
 		<div class="row">
-			<div class="col-3 side" style="border: 0px solid black;">
-				<h1>Jolo Balbin</h1>
-				<h6>AI Engineer / Consultant</h6>
-				<ul>
-					<li><i class="fab fa-linkedin"></i> Linkedin</li>
-					<li><i class="fab fa-github"></i> Github</li>
-				</ul>
+			<div class="col-3" style="border: 0px solid black;">
+				<div class="row">
+					<div class="col side">
+						<h1>Jolo Balbin</h1>
+						<h6>AI Engineer / Consultant</h6>
+						<ul>
+							<li><i class="fab fa-linkedin"></i> Linkedin</li>
+							<li><i class="fab fa-github"></i> Github</li>
+						</ul>
+					</div>
+				</div>
 			</div>
 			<div class="col content" style="border: 0px solid black;">
 				{{ content }}
