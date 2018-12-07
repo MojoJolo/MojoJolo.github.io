@@ -5,14 +5,16 @@
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC" rel="stylesheet">
 
 	<style type="text/css">
 		body {
 			padding: 10px;
+			font-family: 'Noto Serif SC', serif;
 		}
 
 		.side, .content {
-			padding: 10px;
+			padding: 20px;
 		}
 
 		.side {
@@ -20,10 +22,25 @@
 			color: white;
 		}
 
+		.side ul {
+			list-style-type: none;
+			padding: 0;
+		}
+
+		.side a {
+			color: white;
+		}
+
 		.content {
 			padding-left: 20px;
 			text-align: justify;
     		text-justify: inter-word;
+		}
+
+		pre.highlight {
+			padding: 10px;
+			background-color: #222;
+			color: white;
 		}
 	</style>
 </head>
@@ -33,11 +50,12 @@
 			<div class="col-3" style="border: 0px solid black;">
 				<div class="row">
 					<div class="col side">
-						<h1>Jolo Balbin</h1>
+						<h1><a href="{{ site.url }}">Jolo Balbin</a></h1>
 						<h6>AI Engineer / Consultant</h6>
 						<ul>
-							<li><i class="fab fa-linkedin"></i> Linkedin</li>
-							<li><i class="fab fa-github"></i> Github</li>
+							<li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jpbalbin/">Linkedin</a></li>
+							<li><i class="fab fa-github"></i> <a href="https://github.com/mojojolo">Github</a></li>
+							<li><i class="fab fa-twitter"></i> <a href="https://twitter.com/MojoJolo">Twitter</a></li>
 						</ul>
 					</div>
 				</div>

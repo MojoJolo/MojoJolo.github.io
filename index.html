@@ -1,11 +1,22 @@
 ---
 layout: default
-title: About Me
+title: Jolo Balbin
 ---
-<h3>{{ page.title }}</h3>
+<h3>About Me</h3>
+<p>I'm <strong>Jolo Balbin</strong>, a software and AI engineer. I'm currently the CTO of <a href="https://www.indigoresearch.xyz/">Indigo Research</a>. I like building software applications with AI capabilities then scaling them up into production.</p>
+<p>I created TextTeaser, an open source automatic summarization algorithm for my thesis. Check it out at <a href="https://github.com/IndigoResearch/textteaser">Github</a>. I also have an experience in data science working with jobs and telco data. I also have no problem in gathering datasets with my experience in scraping different stuff.</p>
+<p>Outside of software, I do wall climbing and bouldering, join various sports activies, listening to audiobooks and living the life with people.</p>
+<p>Consulting or possible project? Contact me at <a href="#"><em>jolo.balbin [at] gmail.com</em></a></p>
+<p></p>
 <h3>Posts</h3>
 <ul class="posts">
-  {% for post in site.posts reversed %}
-    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> | <span>{{ post.date | date_to_string }}</span></li>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
   {% endfor %}
+</ul>
+<h3>Research</h3>
+<ul class="posts">
+    <li>
+        <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=KeuR92PPva4=&t=1">Constructing a Word Similarity Graph from Vector based Word Representation for Named Entity Recognition</a>, Feria M., <strong>Balbin J.</strong> and Bautista F. (2018) [<a href="https://arxiv.org/abs/1807.03012">arXiv</a>]
+    </li>
 </ul>
