@@ -1,1 +1,1 @@
-# mojojolo.github.io
+visit [jolo.xyz](https://jolo.xyz/)
