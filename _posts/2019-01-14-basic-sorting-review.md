@@ -9,8 +9,7 @@ I'm currently reviewing the basic sorting algorithms. I'm writing this blog to s
 Much thanks to this [YouTube channel](https://www.youtube.com/user/lcc0612/) for explaining the basic sorting algorithms very well. I really recommend his [playlist](https://www.youtube.com/watch?v=MrUMzthTXOs&list=PLJse9iV6Reqg-IffRqjxebaPg0zaPxWlt) explaining those algorithms.
 
 ### Basic Sorting Algorithms
-
-
+<br><br>
 #### Selection Sort
 
 
