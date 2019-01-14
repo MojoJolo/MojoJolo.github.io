@@ -18,6 +18,7 @@ Much thanks to this [YouTube channel](https://www.youtube.com/user/lcc0612/) for
 - sorting like a deck of cards
 - running through the list to find the smallest number
 - smallest number will be put in the end
+
 <br>
 #### Bubble Sort
 ###### Worst Case: O(n<sup>2</sup>)
@@ -25,3 +26,12 @@ Much thanks to this [YouTube channel](https://www.youtube.com/user/lcc0612/) for
 ###### Best Case: O(n)
 
 - moves (bubbles) the biggest / smallest to the end
+
+#### Insertion Sort
+###### Worst Case: O(n<sup>2</sup>)
+###### Average Case: O(n<sup>2</sup>)
+###### Best Case: O(n)
+
+- only run through the list once
+- swaps the smallet / largest to the end
+- the end part is guaranteed to be sorted
