@@ -9,7 +9,7 @@ I'm currently reviewing the basic sorting algorithms. I'm writing this blog to s
 Much thanks to this [YouTube channel](https://www.youtube.com/user/lcc0612/) for explaining the basic sorting algorithms very well. I really recommend his [playlist](https://www.youtube.com/watch?v=MrUMzthTXOs&list=PLJse9iV6Reqg-IffRqjxebaPg0zaPxWlt) explaining those algorithms.
 
 ### Basic Sorting Algorithms
-#  
+<br>
 #### Selection Sort
 ###### Worst Case: O(n<sup>2</sup>)
 ###### Average Case: O(n<sup>2</sup>)
@@ -18,8 +18,7 @@ Much thanks to this [YouTube channel](https://www.youtube.com/user/lcc0612/) for
 - sorting like a deck of cards
 - running through the list to find the smallest number
 - smallest number will be put in the end
-#  
-#  
+<br>
 #### Bubble Sort
 ###### Worst Case: O(n<sup>2</sup>)
 ###### Average Case: O(n<sup>2</sup>)
