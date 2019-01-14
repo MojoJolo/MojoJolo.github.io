@@ -10,7 +10,10 @@ Much thanks to this [YouTube channel](https://www.youtube.com/user/lcc0612/) for
 
 ### Basic Sorting Algorithms
 
+
 #### Selection Sort
+
+
 ###### Worst Case: O(n<sup>2</sup>)
 ###### Average Case: O(n<sup>2</sup>)
 ###### Best Case: O(n<sup>2</sup>)
