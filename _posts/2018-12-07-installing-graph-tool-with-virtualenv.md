@@ -2,6 +2,7 @@
 layout: post
 title: "Installing Graph-tool in Virtualenv or Pyenv"
 date: 2018-12-07
+description: It is a handy open source tool for doing graph analysis and manipulation in Python.
 ---
 
 We are using [graph-tool](https://graph-tool.skewed.de/) by [Tiago Peixoto](https://skewed.de/tiago) at [Indigo Research](https://www.indigoresearch.xyz/). It is a handy open source tool for doing graph analysis and manipulation in Python. Unfortunately, we had a hard time installing it to some of our dev machines using Ubuntu 16.04 and Python 3.6+.

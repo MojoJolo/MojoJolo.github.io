@@ -2,6 +2,7 @@
 layout: post
 title: "Basic Sorting Review"
 date: 2019-01-14
+description: I'm currently reviewing the basic sorting algorithms. I'm writing this blog to serve as my notes that I can look back when needed in the future.
 ---
 
 I'm currently reviewing the basic sorting algorithms. I'm writing this blog to serve as my notes that I can look back when needed in the future.

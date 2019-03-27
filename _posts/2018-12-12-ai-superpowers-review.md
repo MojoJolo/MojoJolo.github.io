@@ -2,6 +2,7 @@
 layout: post
 title: "AI Superpowers Short Book Review"
 date: 2018-12-12
+description: It is the first book I purchased and finished as an audiobook. After finishing this book, I can say that it made me realized the capability and power of China in the field of artifical intelligence.
 ---
 
 I recently finished this book called **AI Superpowers: China, Silicon Valley, and the New World Order** by **Kai-Fu Lee**. It is the first book I purchased and finished as an audiobook. After finishing this book, I can say that it made me realized the capability and power of China in the field of artifical intelligence.

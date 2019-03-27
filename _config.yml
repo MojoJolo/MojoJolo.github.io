@@ -1,6 +1,7 @@
 name: Jolo Balbin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+description: Jolo Balbin's blog
 
 # Thanks to this tutorial
 # http://jmcglone.com/guides/github-pages/

@@ -2,6 +2,7 @@
 layout: post
 title: "Trying Out Contours on a Climbing Wall using OpenCV"
 date: 2019-03-27
+description: Last year, I got into wall climbing as a hobby and I've been spending a lot of time in a climbing gym. Detecting the holds in a climbing wall can be a good OpenCV exercise.
 ---
 
 I'm really interested in learning OpenCV and computer vision before but I don't have an interesting project to work on while learning. Last year, I got into wall climbing as a hobby and I've been spending a lot of time in a climbing gym. Detecting the holds in a climbing wall can be a good OpenCV exercise.
