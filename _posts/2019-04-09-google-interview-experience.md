@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Google Interview experience"
+title: "My Google Interview Experience"
 date: 2019-04-09
 description: Last January, I received an email from a Google recruiter asking if I'm interested for a quick call. I scheduled the call a day after. She talked about Google, ask about my experience, behavioral questions, and a few technical questions just to gauge my computer science knowledge.
 ---
