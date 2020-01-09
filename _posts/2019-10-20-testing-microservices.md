@@ -25,6 +25,9 @@ Additional Readings:
 5. [Don’t Let the Internet Dupe you, Event Sourcing is Hard - Blogomatano](https://chriskiehl.com/article/event-sourcing-is-hard)
 
 Sources:
+
 [1] [Testing Strategies in a Microservice Architecture](https://www.martinfowler.com/articles/microservice-testing/#testing-contract-introduction)
+
 [2] Chapter 9, [Microservices Patterns by Chris Richardson](https://www.oreilly.com/library/view/microservices-patterns/9781617294549/)
+
 [3] [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
