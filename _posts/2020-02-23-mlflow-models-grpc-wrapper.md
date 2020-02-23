@@ -2,7 +2,7 @@
 layout: post
 title: "MLflow Models GRPC Wrapper"
 date: 2020-02-23
-description:
+description: This post will talk about how to create a GRPC wrapper for MLflow Models.
 ---
 
 This post will talk about how to create a GRPC wrapper for [MLflow Models](https://www.mlflow.org/docs/latest/models.html).
@@ -18,7 +18,7 @@ I have my eye on MLflow Models. As I skimmed through the documentation, I learne
 But what if we don't want to use REST? Well, MLflow also allows us to load the model inline through `mlflow.pyfunc.load_model(MODEL_PATH)`. It is convenient because we can use it to implement a GRPC wrapper for MLflow Models.
 
 #### mlflow-grpc
-https://github.com/MojoJolo/mlflow-grpc
+[https://github.com/MojoJolo/mlflow-grpc](https://github.com/MojoJolo/mlflow-grpc)
 
 In this repository, I tried to create a GRPC wraper for MLflow Models. Creating a boilerplate GRPC server is easy. There are lots of tutorials about it ([here](https://grpc.io/docs/quickstart/python/) and [here](https://www.semantics3.com/blog/a-simplified-guide-to-grpc-in-python-6c4e25f0c506/)).
 
