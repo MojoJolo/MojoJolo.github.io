@@ -37,7 +37,7 @@ To future players, always be aware of maintenance times. Because apparently, abl
 
 ### What to do after being ban?
 
-<img src="/assets/axie-ban4.png" class="rounded mx-auto d-block" alt="Banned Axie Infinity">
+<img src="/assets/axie-ban4.png" class="rounded mx-auto d-block" alt="Banned Axie Infinity" width="300px">
 
 Nothing. My Axies are banned for 120 days. Four months of nothing. Those that are banned, or will be banned in the future, try submitting an appeal using this [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSecPeCBQzPl8fuN5ODb0UdBgwDD9YzaJnmpnTh1dHW8VDqTXQ/viewform). I also tried various means of contact to them but no avail.
 
