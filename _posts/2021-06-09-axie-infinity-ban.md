@@ -27,7 +27,7 @@ They are pretty arrogant about it though.
 
 They said that it is 100% and there is no way to appeal. Posts from socia media may differ though. Here's a [post from Reddit](https://www.reddit.com/r/AxieInfinity/comments/nv1j9a/got_banned_from_the_game_and_when_asked_why_how/) talking about their wrongful ban. There are also posts and comments in Facebook that their new accounts are also banned. Looks like a lot of new accounts are banned wrongly.
 
-Additionally, they are banning players even it is Axie Infinity's fault. They said it themselves.
+Additionally, they are banning players even if it is Axie Infinity's fault. They said it themselves.
 
 <img src="/assets/axie-ban2.png" class="rounded mx-auto d-block" alt="Banned Axie Infinity">
 
@@ -37,7 +37,7 @@ To future players, always be aware of maintenance times. Because apparently, abl
 
 ### What to do after being ban?
 
-<img src="/assets/axie-ban4.png" class="rounded mx-auto d-block" alt="Banned Axie Infinity" width="300px">
+<img src="/assets/axie-ban4.png" class="rounded mx-auto d-block" alt="Banned Axie Infinity" width="400px">
 
 Nothing. My Axies are banned for 120 days. Four months of nothing. Those that are banned, or will be banned in the future, try submitting an appeal using this [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSecPeCBQzPl8fuN5ODb0UdBgwDD9YzaJnmpnTh1dHW8VDqTXQ/viewform). I also tried various means of contact to them but no avail.
 
