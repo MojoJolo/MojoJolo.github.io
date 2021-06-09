@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interested in Playing Axie Infinity? Don't. You'll be Banned."
+title: "Interested in Playing Axie Infinity? Think Twice. You can be Banned."
 date: 2021-06-09
 description: If you are interested in playing Axie Infinity, you need to be aware. They are banning players without any reasons or response.
 ---
@@ -44,7 +44,7 @@ Nothing. My Axies are banned for 120 days. Four months of nothing. Those that ar
 ### Future players
 To those future players, just be aware that these sort of problems might happen. You will have no control over it. Be cautious before committing because this game has a high barrier (cost) of entry.
 
-To the Axie Infinity team, it's not too late. You can still investigate why players are banned wrongly instead of banning them also in social media.
+To the Axie Infinity team, it's not too late. You can still investigate why players are banned wrongly instead of banning them also in social media and accusing them of FUD.
 
 Crypto is supposed to be decentralized. But this doesn't look like decentralized at all.
 
